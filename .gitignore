@@ -1,0 +1,7 @@
+dist
+techzapi.egg-info
+setup.cfg
+test.py
+build
+generate_relese.py
+*.pyc
